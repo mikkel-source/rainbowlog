@@ -1,5 +1,5 @@
 {
-  "name": "rainbowlog",
+  "name": "@hershoj/rainbowlog",
   "version": "1.0.0",
   "description": "creates a colourfull console log",
   "main": "index.js",
