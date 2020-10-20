@@ -1,0 +1,24 @@
+{
+  "name": "rainbowlog",
+  "version": "1.0.0",
+  "description": "creates a colourfull console log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikkel-source/rainbowlog.git"
+  },
+  "keywords": [
+    "console",
+    "rainbow",
+    "colors"
+  ],
+  "author": "Mikkel Hershøj Olsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikkel-source/rainbowlog/issues"
+  },
+  "homepage": "https://github.com/mikkel-source/rainbowlog#readme"
+}
